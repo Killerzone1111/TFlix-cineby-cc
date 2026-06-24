@@ -1,7 +1,7 @@
 {
   "name": "tflix-cineby-cc",
   "appName": "TFlix Cineby CC",
-  "version": "1.4.1",
+  "version": "1.4.2",
   "description": "TFlix transforms Cineby.cc into a TV-friendly experience for Samsung TVs running TizenBrew with enhanced remote navigation.",
   "packageType": "mods",
   "websiteURL": "https://www.cineby.cc",
